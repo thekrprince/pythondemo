@@ -39,3 +39,15 @@ for key in Payal:
 # for loop to iterate the values of the dictionary
 for val in Payal:
     print(Payal[val])
+
+
+# Sorting
+print("Sorted keys in alphabetical order-")
+print(sorted(Payal.keys()))
+
+for i in sorted(Payal.keys()):
+    print(i, end=' ')
+
+
+for i in sorted(Payal.keys()):
+    print(i, Payal[i])
