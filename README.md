@@ -1,2 +1,3 @@
 # pythondemo
-Add the programs i practice.
+
+My starting journey of Python.
